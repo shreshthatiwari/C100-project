@@ -1,2 +1,1 @@
-# Bank_Atm
-Project solution 100
+# C100 project
